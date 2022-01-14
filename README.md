@@ -6,7 +6,10 @@ I followed the guide. It's more or less the manual transmission of phoenix gen a
 
 ### Sources
 
-https://thoughtbot.com/blog/authentication-in-elixir-web-applications-with-guardian-part-1 
-https://thoughtbot.com/blog/authentication-in-elixir-web-applications-with-guardian-part-2 
-https://thoughtbot.com/blog/authentication-in-elixir-web-applications-with-guardian-part-3 
-https://thoughtbot.com/blog/authentication-in-elixir-web-applications-with-ueberauth-and-guardian-part-4 
+https://thoughtbot.com/blog/authentication-in-elixir-web-applications-with-guardian-part-1
+
+https://thoughtbot.com/blog/authentication-in-elixir-web-applications-with-guardian-part-2
+
+https://thoughtbot.com/blog/authentication-in-elixir-web-applications-with-guardian-part-3
+
+https://thoughtbot.com/blog/authentication-in-elixir-web-applications-with-ueberauth-and-guardian-part-4
